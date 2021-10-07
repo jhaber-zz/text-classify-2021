@@ -11,7 +11,12 @@ One of the most common tasks in natural language processing (NLP) is classifying
 
 ## Workshop goals
 
-* TBD
+* Get comfortable with the basic vocabulary of text classification
+* Understand the intuition behind supervised machine learning
+* Learn how to implement a few key supervised machine learning algorithms
+* Understand how to test for accuracy
+* Use scikit-learn to identify important features for each category
+* Gain the foundational knowledge for continued learning
 
 
 ## Prerequisites
