@@ -40,7 +40,30 @@ pip3 install -r requirements.txt
 [Dr. Jaren Haber](https://www.jarenhaber.com/) is a Postdoctoral Fellow with Georgetown University’s Massive Data Institute. His research applies computational methods to study how organizational contexts, social categories, and media segmentation shape the impacts of structural inequalities. He also leads the GU Interdisciplinary Text Analysis Research (GUITAR) working group. Dr. Haber received his PhD in Sociology from the University of California, Berkeley in 2020.
 
 
-## Open-access, online resources
+## Online references
+
+### Supervised machine learning
+
+* [_Scikit-learn_ user guide on supervised learning](http://scikit-learn.org/stable/supervised_learning.html) for supervised machine learning using `scikit-learn`
+* [_Scikit-learn_ tutorial on machine learning](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)
+* [Great intro book: _Machine Learning and Pattern Recognition_](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/) by David Bishop
+* [Canonical book on statistics & machine learning: _Elements of Statistical Learning_](https://link.springer.com/book/10.1007%2F978-0-387-84858-7) by Trevor Hastie, Robert Tibshirani and Jerome Friedman
+
+### Articles showing text classification in action
+
+* ["The Future of Coding: A Comparison of Hand-Coding and Three Types of Computer-Assisted Text Analysis Methods"](https://doi.org/10.1177/0049124118769114) by Laura Nelson, Derek Burk, Marcel Knudsen, and Leslie McCall
+* ["Identifying what types of blog posts are censored in China"](http://gking.harvard.edu/publications/how-censorship-china-allows-government-criticism-silences-collective-expression) by Gary King, Jennifer Pan, and Margaret E Roberts
+* ["Literary Pattern Recognition"](https://lucian.uchicago.edu/blogs/literarynetworks/files/2015/12/LONG_SO_CI.pdf) by Hoyt Long, Richard So
+* ["How Quickly Do Literary Standards Change?"](https://tedunderwood.com/2015/05/18/how-quickly-do-literary-standards-change/) by Ted Underwood, Jordan Sellers
+
+### NLP in Python
+
+* [NLP course & scripts, for social scientists & digital humanists (Laura Nelson)](https://github.com/lknelson/text-analysis-course)
+* [NLP textbook (Jurafsky & Martin @ Stanford)](https://web.stanford.edu/~jurafsky/slp3/)
+* [Book on NLTK (NLTK team)](http://www.nltk.org/book/)
+* [Datasets for NLP (Hugging Face)](https://github.com/huggingface/datasets)
+* [Intro to SpaCy and NLP concepts (Allison Parrish)](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3)
+* [Workshops on NLTK and SpaCy (Geoff Bacon @ D-Lab)](https://github.com/geoffbacon/nlp-with-nltk-spacy)
 
 ### Python and Jupyter notebooks
 
@@ -49,31 +72,7 @@ pip3 install -r requirements.txt
 * [Great book on Python (with exercises): “Python for Everybody” (Charles Severance)](https://www.py4e.com/book.php)
 * [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 * [Python tutorials for social scientists (Neal Caren)](https://nealcaren.github.io/python-tutorials/)
-
-### NLP in Python
-
-* [Documentation](http://scikit-learn.org/stable/supervised_learning.html) for supervised machine learning using scikit-learn
-* [NLP course & scripts, for social scientists & digital humanists (Laura Nelson)](https://github.com/lknelson/text-analysis-course)
-* [NLP textbook (Jurafsky & Martin @ Stanford)](https://web.stanford.edu/~jurafsky/slp3/)
-* [Book on NLTK (NLTK team)](http://www.nltk.org/book/)
-* [Datasets for NLP (Hugging Face)](https://github.com/huggingface/datasets)
-* [Intro to SpaCy and NLP concepts (Allison Parrish)](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3)
-* [Workshops on NLTK and SpaCy (Geoff Bacon @ D-Lab)](https://github.com/geoffbacon/nlp-with-nltk-spacy)
-
-
-## Articles showing text classification in action
-
-* [The Future of Coding: A Comparison of Hand-Coding and Three Types of Computer-Assisted Text Analysis Methods](https://doi.org/10.1177/0049124118769114), by Laura Nelson, Derek Burk, Marcel Knudsen, and Leslie McCall
-* [Identifying what types of blog posts are censored in China](http://gking.harvard.edu/publications/how-censorship-china-allows-government-criticism-silences-collective-expression), by Gary King, Jennifer Pan, and Margaret E Roberts
-* [Literary Pattern Recognition](https://lucian.uchicago.edu/blogs/literarynetworks/files/2015/12/LONG_SO_CI.pdf), by Hoyt Long, Richard So
-* [How Quickly Do Literary Standards Change?](https://tedunderwood.com/2015/05/18/how-quickly-do-literary-standards-change/), by Ted Underwood, Jordan Sellers
-
-
-## O'Reilly books related to text classification
-These are available free to Georgetown students/affiliates ([log in here then search for books](https://www.safaribooksonline.com/library/view/temporary-access/))
-
-* [Popular intro book: _Automate the Boring Stuff with Python_](https://nostarch.com/automatestuff2)
-* (More coming)
+* [Popular intro book for all things Python: _Automate the Boring Stuff with Python_](https://nostarch.com/automatestuff2), free for Georgetown students/affiliates ([log in here](https://www.safaribooksonline.com/library/view/temporary-access/))
 
 
 ## Contributing
