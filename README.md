@@ -11,11 +11,11 @@ One of the most common tasks in natural language processing (NLP) is classifying
 
 ## Workshop goals
 
-* Get comfortable with the basic vocabulary of text classification
+* Get comfortable with the vocabulary of text classification
 * Understand the intuition behind supervised machine learning
-* Learn how to implement a few key supervised machine learning algorithms
-* Understand how to test for accuracy
-* Use scikit-learn to identify important features for each category
+* Learn how to implement a few key supervised machine learning algorithms, including logistic regression and decision trees
+* Learn a few methods for model evaluation and how to implement, including cross-validation
+* Gain experience implementing, comparing, and optimizing machine learning models 
 * Gain the foundational knowledge for continued learning
 
 
@@ -52,12 +52,21 @@ pip3 install -r requirements.txt
 
 ### NLP in Python
 
+* [Documentation](http://scikit-learn.org/stable/supervised_learning.html) for supervised machine learning using scikit-learn
 * [NLP course & scripts, for social scientists & digital humanists (Laura Nelson)](https://github.com/lknelson/text-analysis-course)
 * [NLP textbook (Jurafsky & Martin @ Stanford)](https://web.stanford.edu/~jurafsky/slp3/)
 * [Book on NLTK (NLTK team)](http://www.nltk.org/book/)
 * [Datasets for NLP (Hugging Face)](https://github.com/huggingface/datasets)
 * [Intro to SpaCy and NLP concepts (Allison Parrish)](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3)
 * [Workshops on NLTK and SpaCy (Geoff Bacon @ D-Lab)](https://github.com/geoffbacon/nlp-with-nltk-spacy)
+
+
+## Articles showing text classification in action
+
+* [The Future of Coding: A Comparison of Hand-Coding and Three Types of Computer-Assisted Text Analysis Methods](https://doi.org/10.1177/0049124118769114), by Laura Nelson, Derek Burk, Marcel Knudsen, and Leslie McCall
+* [Identifying what types of blog posts are censored in China](http://gking.harvard.edu/publications/how-censorship-china-allows-government-criticism-silences-collective-expression), by Gary King, Jennifer Pan, and Margaret E Roberts
+* [Literary Pattern Recognition](https://lucian.uchicago.edu/blogs/literarynetworks/files/2015/12/LONG_SO_CI.pdf), by Hoyt Long, Richard So
+* [How Quickly Do Literary Standards Change?](https://tedunderwood.com/2015/05/18/how-quickly-do-literary-standards-change/), by Ted Underwood, Jordan Sellers
 
 
 ## O'Reilly books related to text classification
