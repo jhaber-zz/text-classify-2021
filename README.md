@@ -44,7 +44,7 @@ pip3 install -r requirements.txt
 
 ### Supervised machine learning
 
-* [_Scikit-learn_ user guide on supervised learning](http://scikit-learn.org/stable/supervised_learning.html) for supervised machine learning using `scikit-learn`
+* [_Scikit-learn_ user guide on supervised learning](http://scikit-learn.org/stable/supervised_learning.html) 
 * [_Scikit-learn_ tutorial on machine learning](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 * [Great intro book: _Machine Learning and Pattern Recognition_](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/) by David Bishop
 * [Canonical book on statistics & machine learning: _Elements of Statistical Learning_](https://link.springer.com/book/10.1007%2F978-0-387-84858-7) by Trevor Hastie, Robert Tibshirani and Jerome Friedman
