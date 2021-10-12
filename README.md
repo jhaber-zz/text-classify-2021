@@ -82,9 +82,10 @@ If you spot a problem with these materials, please make an issue describing the 
 
 ## Acknowledgments
 
+* [Laura K. Nelson](http://www.lauraknelson.com/p/blog-page.html), especially her [course on _Text Analysis for the Social Sciences and Humanities_](https://github.com/lknelson/text-analysis-course)
+* [D-Lab at the University of California, Berkeley](https://dlab.berkeley.edu/), especially their [_Machine Learning in Python_ workshop](https://github.com/dlab-berkeley/python-machine-learning)
+* [Geoff Bacon](https://geoffbacon.github.io/), especially his [_Introduction to Text Classification_ workshop](https://github.com/TextXD/introduction-to-text-classification)
 * [Summer Institute in Computational Social Science](https://sicss.io/)
-* [D-Lab at the University of California, Berkeley](https://dlab.berkeley.edu/), especially their [Machine learning in Python workshop](https://github.com/dlab-berkeley/python-machine-learning)
-* [Geoff Bacon](https://geoffbacon.github.io/), especially his [Introduction to text classification workshop](https://github.com/TextXD/introduction-to-text-classification)
 
 
 <br>
